@@ -1,6 +1,6 @@
 # Clean Swift Lite Builder Listener
-A handy Clean Swift template. 
-## This a modified version with handy options:
+A handy Xcode template for Clean Swift architecture. 
+## This is a modified version with handy options:
 
 - Option to create storyboard/xib when creating a new scense
 - Add class builder to separate configuration from view controller.  
