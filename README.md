@@ -10,7 +10,7 @@ It will be helpful in some cases:
   - You might have multiple view controllers in different modes with the same interactor, presenter and router
   - Dependency injection
 - Add protocol listener to make code be more clean
-- Add default init methods for interactor, presenter and router 
+- Add default init methods for interactor, presenter and router  
 It will be helpful in some cases:
   - Initialize default values
   - Dependency injection
